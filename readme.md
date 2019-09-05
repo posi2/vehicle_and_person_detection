@@ -22,7 +22,7 @@ directories:
                    save detected bounding box text files handlabel_detected-results or coco_detected-results
                    save detected images detected-images
 
-      for video : 
+       for video : 
                    file: yolo_video.py
  
                    command: python yolo_output.py --input <file-name> --output 
@@ -34,7 +34,7 @@ directories:
                    video save in out_video folder
                    input video path : video (todo) presently code
       
-      for mAP :
+       for mAP :
                   file: calculate_map.py
                  
                   command: python calculate_map.py
