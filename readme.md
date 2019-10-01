@@ -50,7 +50,7 @@ train :
 
      Note: change weights, anchor and classes path in train.py as per the need
       
-     
+   credit : https://github.com/qqwweee/keras-yolo3  
 
 
                   
